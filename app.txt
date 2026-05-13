@@ -1,2 +1,3 @@
 echo "Hello Git"
 welcome to git practical
+hello welcome

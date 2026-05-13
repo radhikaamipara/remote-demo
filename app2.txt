@@ -1,3 +1,3 @@
 echo "Hello Git"
 Development feature added
-hello jn
+hello jg
